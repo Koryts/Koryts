@@ -27,6 +27,5 @@
 
 ![codewars](https://www.codewars.com/users/Kovlas/badges/large)
 
---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=koryts)
